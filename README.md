@@ -9,8 +9,10 @@ We design 3 case of process to optimize the system using case study function in 
 
 The NOx generating during the process is removed by using SCR(Selective Catalysts Reduction)
 
-## Overall BFD(Block Flow Diagram)
+## Overall BFD (Block Flow Diagram)
 <img width="1424" height="673" alt="image" src="https://github.com/user-attachments/assets/bd09ecb5-7a2b-470a-b13e-244a90f7a1fb" />
 
-## Overall PFD(Process Flow Diagram)
+
+
+## Overall PFD (Process Flow Diagram)
 <img width="1525" height="699" alt="image" src="https://github.com/user-attachments/assets/3173bceb-682e-470c-a6cd-fead8ddfa1e9" />
